@@ -1,5 +1,5 @@
 { 
-  "products":[
+  "products": [
   {
     "id": 1,
     "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptop",
@@ -107,30 +107,8 @@
       "rate": 3.3,
       "count": 203
     }
-  },
-  {
-    "id": 10,
-    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-    "price": 109,
-    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-    "category": "electronics",
-    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-    "rating": {
-      "rate": 2.9,
-      "count": 470
-    }
   }
-],
-  "addresses": [
-        { "id": 1, "address": "Belmont Avenue", "state": "KS" },
-        { "id": 2, "address": "10th Street", "state": "MO" },
-        { "id": 3, "address": "Route 100", "state": "IA" }, 
-        { "id": 4, "address": "Evergreen Lane", "state": "MN" },
-        { "id": 5, "address": "Main Street", "state": "WI" },
-        { "id": 6, "address": "Briarwood Drive", "state": "MN" },
-        { "id": 7, "address": "Linden Avenue", "state": "IA" },
-        { "id": 8, "address": "Eagle Road", "state": "MO" },
-        { "id": 9, "address": "Glenwood Avenue", "state": "KS" },
-        { "id": 10, "address": "Elm Street", "state": "WI" }
-    ]
+  
+]
+  
 }
